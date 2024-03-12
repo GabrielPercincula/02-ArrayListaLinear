@@ -118,6 +118,8 @@ void buscarElemento()
 	}
 	if (v == false) {
 		cout << "este numero nao existe em nenhuma posicao \n";
+
+		//Alterado por Gabriel
 	}
 
 }
